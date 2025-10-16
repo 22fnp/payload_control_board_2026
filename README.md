@@ -7,7 +7,7 @@ MCU - STM32F446VET6
 Ensure you have cloned the repository and open the terminal.
 
 Change the active directory to that of the local repository. 
-`cd payload_control_board_2026`
+``cd payload_control_board_2026``
 
 Use status to check branch and changes
 `git status` 
