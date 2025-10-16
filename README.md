@@ -4,6 +4,8 @@ MCU - STM32F446VET6
 
 ### GitHub Workflow
 
+---
+
 After cloning the repository, use status to check branch and changes
 `git status` 
 
@@ -25,6 +27,8 @@ Push changes to the remote repository.
 `git push`
 
 ### Schematic Revision Format
+
+---
 
 `Rev 1.0` -> First completed version\
 `Rev 1.1` -> Minor changes (week-to-week)\
