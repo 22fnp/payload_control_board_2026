@@ -20,7 +20,7 @@ In Altium, navigate to File -> Open -> Browse. Search for the files locally and 
 
 Proceed to edit the project. Note Altium will keep track of changes relative to your local repository and the remote repository.
 
-If adding files to the project. 
+Re-add the changed files to the project. 
 `git add .`
 
 Commit to your branch. The quotation marks are part of the command.
