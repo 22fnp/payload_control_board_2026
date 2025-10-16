@@ -4,6 +4,8 @@ MCU - STM32F446VET6
 
 ## GitHub Workflow
 
+Open the terminal.
+
 After cloning the repository, use status to check branch and changes
 `git status` 
 
