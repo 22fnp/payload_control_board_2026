@@ -4,9 +4,12 @@ MCU - STM32F446VET6
 
 ## GitHub Workflow
 
-Open the terminal.
+Ensure you have cloned the repository and open the terminal.
 
-After cloning the repository, use status to check branch and changes
+Change the active directory to that of the local repository. 
+`cd payload_control_board_2026`
+
+Use status to check branch and changes
 `git status` 
 
 Pull to update changes locally
