@@ -16,9 +16,7 @@ Pull to update changes locally
 >`git pull`
 
 In Altium, navigate to File -> Open -> Browse. Search for the files locally and open the .PrjPcb file 
-`payload_control_board_2026.PrjPcb`
-
-Proceed to edit the project. Note Altium will keep track of changes relative to your local repository and the remote repository.
+`payload_control_board_2026.PrjPcb`. Proceed to edit the project. Note Altium will keep track of changes relative to your local repository and the remote repository.
 
 Re-add the changed files to the project. 
 >`git add .`
