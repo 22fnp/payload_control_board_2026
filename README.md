@@ -26,6 +26,6 @@ Push changes to the remote repository.
 
 ### Schematic Revision Format
 
-`Rev 1.0` -> First completed version
-`Rev 1.1` -> Minor changes (week-to-week)
+`Rev 1.0` -> First completed version\
+`Rev 1.1` -> Minor changes (week-to-week)\
 `Rev 2.0` -> Major change (operation of the circuit is different)
