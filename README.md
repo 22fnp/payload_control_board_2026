@@ -10,10 +10,10 @@ Change the active directory to that of the local repository.
 >`cd payload_control_board_2026`
 
 Use status to check branch and changes
-`git status` 
+>`git status` 
 
 Pull to update changes locally
-`git pull`
+>`git pull`
 
 In Altium, navigate to File -> Open -> Browse. Search for the files locally and open the .PrjPcb file 
 `payload_control_board_2026.PrjPcb`
@@ -21,13 +21,13 @@ In Altium, navigate to File -> Open -> Browse. Search for the files locally and 
 Proceed to edit the project. Note Altium will keep track of changes relative to your local repository and the remote repository.
 
 Re-add the changed files to the project. 
-`git add .`
+>`git add .`
 
 Commit to your branch. The quotation marks are part of the command.
-`git commit -m "Write your message here"`
+>`git commit -m "Write your message here"`
 
 Push changes to the remote repository.
-`git push`
+>`git push`
 
 ## Schematic Revision Format
 
