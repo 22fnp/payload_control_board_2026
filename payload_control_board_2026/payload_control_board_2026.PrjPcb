@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\..\altium-library\Celestial Altium Library - altium_library (3).DbLib
+DocumentPath=..\..\..\altium-library\Celestial Altium Library - altium_library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
